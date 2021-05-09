@@ -31,3 +31,4 @@ http://www.vanbasco.com/karaokeplayer/
 - https://nivo.rocks/
 - https://alpha.trycarbide.com/
 - https://observablehq.com/
+- https://codesandbox.io/s/pyodide-example-mp478?file=/index.html <- neat!
