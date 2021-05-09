@@ -30,3 +30,4 @@ http://www.vanbasco.com/karaokeplayer/
 - https://github.com/InsightSoftwareConsortium/itkwidgets
 - https://nivo.rocks/
 - https://alpha.trycarbide.com/
+- https://observablehq.com/
