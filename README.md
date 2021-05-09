@@ -34,3 +34,7 @@ http://www.vanbasco.com/karaokeplayer/
 - https://observablehq.com/
 - https://codesandbox.io/s/pyodide-example-mp478?file=/index.html <- neat!
 - https://threejs.org/editor/
+
+Ooo this is cool! potree right in google colab! (rather slow to convert points)
+- https://pypi.org/project/pypotree/
+- https://colab.research.google.com/drive/1It3EbWy9W8Xf65ikP-_tpkVdJRmvwTQT#scrollTo=CFoLsFZxUO_R <- yeah boi!
