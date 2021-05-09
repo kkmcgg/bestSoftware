@@ -20,5 +20,13 @@ freeware product that plays Karaoke (.kar) and standard MIDI (.mid, .midi, .rmi)
 
 http://www.vanbasco.com/karaokeplayer/
 
-# 'One the web' tools
+# Things to look into ... 'One the web' tools (to be organized)
+... im trying to find a particular one i found months ago... I;m going to keep posting these until i find it...
 https://glitch.com/edit/#!/quintessential-glitter-nurse?path=.env%3A1%3A0
+https://holoviews.org/
+https://plotly.com/python/plotly-express/
+https://plotly.com/javascript/3d-scatter-plots/
+https://alpha.iodide.io/
+https://github.com/InsightSoftwareConsortium/itkwidgets
+https://nivo.rocks/
+https://alpha.trycarbide.com/
