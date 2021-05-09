@@ -19,3 +19,6 @@ https://www.danielgm.net/cc/
 freeware product that plays Karaoke (.kar) and standard MIDI (.mid, .midi, .rmi) files
 
 http://www.vanbasco.com/karaokeplayer/
+
+# 'One the web' tools
+https://glitch.com/edit/#!/quintessential-glitter-nurse?path=.env%3A1%3A0
