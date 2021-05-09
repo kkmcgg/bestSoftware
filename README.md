@@ -38,3 +38,6 @@ http://www.vanbasco.com/karaokeplayer/
 Ooo this is cool! potree right in google colab! (rather slow to convert points)
 - https://pypi.org/project/pypotree/
 - https://colab.research.google.com/drive/1It3EbWy9W8Xf65ikP-_tpkVdJRmvwTQT#scrollTo=CFoLsFZxUO_R <- yeah boi!
+
+Great git groups:
+- https://github.com/cmla from the makers of the above pypotree - some other really cool tools like satellite derived dems and satellite downloaders 
