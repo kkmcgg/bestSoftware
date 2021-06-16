@@ -20,6 +20,12 @@ freeware product that plays Karaoke (.kar) and standard MIDI (.mid, .midi, .rmi)
 
 http://www.vanbasco.com/karaokeplayer/
 
+# Perceptilabs 
+Build ML models interactivily and visually! Built on a tensorflow back end! Neat
+Free for developers. 
+
+https://www.perceptilabs.com/
+
 # Things to look into ... 'One the web' tools (to be organized)
 ... im trying to find a particular one i found months ago... I'm going to keep posting these until i find it...
 ... also these are very much in the wrong git... 
