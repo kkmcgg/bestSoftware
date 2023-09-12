@@ -36,6 +36,11 @@ MAybe a bit too out of date - but oh so lovely and lightweight a 3d-printer cont
 
 https://www.pronterface.com/
 
+# Veles
+Absoutely face melting binary file viewer
+
+https://codisec.com/veles/#download-veles
+
 # Things to look into ... 'One the web' tools (to be organized)
 ... im trying to find a particular one i found months ago... I'm going to keep posting these until i find it...
 ... also these are very much in the wrong git... 
