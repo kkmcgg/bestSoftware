@@ -41,6 +41,11 @@ Absoutely face melting binary file viewer
 
 https://codisec.com/veles/#download-veles
 
+# ShareX
+Amazing Screen capture, file sharing and productivity tool. Retake the same screenshots zones!
+
+https://getsharex.com/
+
 # Things to look into ... 'One the web' tools (to be organized)
 ... im trying to find a particular one i found months ago... I'm going to keep posting these until i find it...
 ... also these are very much in the wrong git... 
@@ -55,6 +60,9 @@ https://codisec.com/veles/#download-veles
 - https://observablehq.com/
 - https://codesandbox.io/s/pyodide-example-mp478?file=/index.html <- neat!
 - https://threejs.org/editor/
+
+# Maybe Pile
+ - https://github.com/ViRb3/SylphyHornEx
 
 Ooo this is cool! potree right in google colab! (rather slow to convert points)
 - https://pypi.org/project/pypotree/
