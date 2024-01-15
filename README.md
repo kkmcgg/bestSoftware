@@ -46,6 +46,11 @@ Amazing Screen capture, file sharing and productivity tool. Retake the same scre
 
 https://getsharex.com/
 
+# Roadkil's Unstoppable Copier
+A great little file copier. Fast and robust. 
+
+https://www.roadkil.net/program.php?ProgramID=29
+
 # Things to look into ... 'One the web' tools (to be organized)
 ... im trying to find a particular one i found months ago... I'm going to keep posting these until i find it...
 ... also these are very much in the wrong git... 
