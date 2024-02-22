@@ -2,7 +2,9 @@
 
 # Sumatra PDF
 nice little open source pdf viewer!
+
 https://www.sumatrapdfreader.org/free-pdf-reader#
+
 https://github.com/sumatrapdfreader/sumatrapdf
 
 
