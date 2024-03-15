@@ -2,6 +2,7 @@
 
 # Obsidian 
 A truly beautiful looking markdown note taking system with many add ons!
+
 https://obsidian.md/
 
 # Sumatra PDF
