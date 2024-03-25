@@ -81,6 +81,7 @@ https://www.roadkil.net/program.php?ProgramID=29
 
 # Maybe Pile
  - https://github.com/ViRb3/SylphyHornEx
+- https://github.com/remotesensinginfo/rsgislib-tutorials/tree/main
 
 Ooo this is cool! potree right in google colab! (rather slow to convert points)
 - https://pypi.org/project/pypotree/
