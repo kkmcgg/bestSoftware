@@ -67,6 +67,7 @@ https://www.roadkil.net/program.php?ProgramID=29
 # Things to look into ... 'One the web' tools (to be organized)
 ... im trying to find a particular one i found months ago... I'm going to keep posting these until i find it...
 ... also these are very much in the wrong git... 
+- https://learn.microsoft.com/en-us/windows/powertoys/
 - https://glitch.com/edit/#!/quintessential-glitter-nurse?path=.env%3A1%3A0
 - https://holoviews.org/
 - https://plotly.com/python/plotly-express/
