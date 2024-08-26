@@ -1,5 +1,10 @@
 # bestSoftware
 
+# VLC
+Dont mess with others video players!
+
+https://www.videolan.org/
+
 # Obsidian 
 A truly beautiful looking markdown note taking system with many add ons!
 
