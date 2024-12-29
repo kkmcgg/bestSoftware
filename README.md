@@ -1,5 +1,10 @@
 # bestSoftware
 
+#dnSpy
+Need to recover some compiled code?? Magic!
+
+https://github.com/dnSpy/dnSpy
+
 # VLC
 Dont mess with others video players!
 
