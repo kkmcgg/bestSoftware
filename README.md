@@ -100,3 +100,7 @@ Ooo this is cool! potree right in google colab! (rather slow to convert points)
 
 Great git groups:
 - https://github.com/cmla from the makers of the above pypotree - some other really cool tools like satellite derived dems and satellite downloaders 
+
+# pdf images
+https://www.xpdfreader.com/pdfimages-man.html
+
