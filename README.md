@@ -104,3 +104,8 @@ Great git groups:
 # pdf images
 https://www.xpdfreader.com/pdfimages-man.html
 
+# miniforge
+https://github.com/conda-forge/miniforge?tab=readme-ov-file
+
+# kubuntu
+https://kubuntu.org/
